@@ -1,1 +1,1 @@
-配合后台管理项目食用
+基于UNI-CLOUD的新闻资讯平台,配合后台管理项目NewsAdmindemo2食用

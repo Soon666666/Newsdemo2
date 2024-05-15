@@ -1,1 +1,1 @@
-基于UNI-CLOUD的新闻资讯平台,配合后台管理项目NewsAdmindemo2食用
+基于UNI-CLOUD的新闻资讯平台,配合后台管理项目NewsAdmindemo2食用,源于uni-app的12章项目
